@@ -81,4 +81,4 @@ Interactive Power BI dashboard analyzing 10.35K Google Play Store apps with 147 
 
 ## Author & Contact
 - Name: `Kshitij Saini`  
-- LinkedIn: [https://www.linkedin.com/in/pratyushpuri](https://www.linkedin.com/in/kshitij-saini-b950b7299?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- LinkedIn: [https://www.linkedin.com/in/kshitijsaini](https://www.linkedin.com/in/kshitij-saini-b950b7299?utm_source=share_via&utm_content=profile&utm_medium=member_android)
