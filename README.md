@@ -44,7 +44,7 @@ Interactive Power BI dashboard analyzing 10.35K Google Play Store apps with 147 
 
 ---
 
-![powerBI](powerDash.png)
+![powerBI](PowerBi.PNG)
 
 ---
 
